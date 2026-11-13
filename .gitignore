@@ -1,0 +1,16 @@
+# Dados brutos e intermediários pesados (PDFs e Parquets)
+data/raw/*.pdf
+data/interim/*.parquet
+data/interim/*.csv
+data/processed/*.parquet
+
+# Cache e temporários Python / Spyder
+__pycache__/
+*.py[cod]
+*.tmp
+.ipynb_checkpoints/
+.spyproject/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db

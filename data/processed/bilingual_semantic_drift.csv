@@ -1,0 +1,5 @@
+﻿company,sentencas_pt,sentencas_en,similaridade_lexical_pt_en,similaridade_tematica_pt_en,deriva_semantica_bilingue
+eletrobras,1381,1439,0.3379,0.2656,0.7344
+petrobras,4316,3677,0.2334,0.1657,0.8343
+raizen,1706,1397,0.232,0.1658,0.8342
+suzano,4967,5016,0.326,0.2085,0.7915
